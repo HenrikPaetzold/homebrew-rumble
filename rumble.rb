@@ -1,8 +1,8 @@
 class Rumble < Formula
-  desc "RumbleDB 1.22.0 'Pyrenean oak' for Apache Spark"
+  desc "RumbleDB 2.1.0 'Cedrus Libani' for Apache Spark"
   homepage "https://rumbledb.org/"
-  url "https://github.com/RumbleDB/rumble/releases/download/v2.0.0/rumbledb-2.0.0-brew.zip"
-  sha256 "6246a7a15d9ab54fd6ed9fa2d457ab78389fb8739cf6dee966114d946776c003"
+  url "https://github.com/RumbleDB/rumble/releases/download/v2.1.0/rumbledb-2.1.0-brew.zip"
+  sha256 "250b9a79e6fed34c595f75bb60d786b366e335c361169d1447538442fd32f29b"
   license "MIT"
 
   depends_on "apache-spark"
