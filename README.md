@@ -6,7 +6,7 @@ Experimental brew installer for [RumbleDB](https://github.com/RumbleDB/rumble) o
 
 ```
 brew tap rumbledb/rumble
-brew install --build-from-source rumble
+brew install --build-from-source rumbledb
 ```
 
 ### Usage
